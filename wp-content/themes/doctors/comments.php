@@ -1,0 +1,1 @@
+<?php tally_content_loop_comments(); ?>

@@ -1,0 +1,711 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: StrongHold\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Thu Jul 23 2015 15:25:25 GMT+0600 (ALMT)\n"
+"PO-Revision-Date: Thu Jul 23 2015 19:57:29 GMT+0600 (ALMT)\n"
+"Last-Translator: webadmin <walker2030@gmail.com>\n"
+"Language-Team: \n"
+"Language: Russian\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: ru_RU\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../comments.php:28
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Одно мнение о &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s мнений о &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s мнений о &ldquo;%2$s&rdquo;"
+
+#: ../includes/template-tags.php:55
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+msgstr "span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+
+#: ../includes/template-tags.php:56
+msgctxt "Next post link"
+msgid "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+msgstr "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+
+#: ../includes/template-tags.php:82
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#: ../includes/template-tags.php:87
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr "%s"
+
+#. translators: used between list items, there is a space after the comma
+#. translators: used between list items, there is a space after the comma
+#: ../includes/template-tags.php:104 ../includes/template-tags.php:110
+msgid ", "
+msgstr ","
+
+#: ../includes/template-tags.php:106 ../includes/template-tags.php:112
+#, php-format
+msgid "%1$s "
+msgstr "%1$s "
+
+#: ../includes/template-tags.php:143
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: ../includes/template-tags.php:145
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: ../includes/template-tags.php:147
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: ../includes/template-tags.php:171
+#, php-format
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#: ../includes/template-tags.php:318
+msgid "<i class=\"fa fa-home\"></i>"
+msgstr "<i class=\"fa fa-home\"></i>"
+
+#: ../includes/options-config.php:8
+msgid ""
+"Unlimited sidebars allows you to create multiple sidebars. Check out our "
+"demo site to see how different pages displays different sidebars!"
+msgstr ""
+"Если выбрано неограниченное число сайдбаров, то вы можете создавать их много."
+" См. наш демо сайт, где на разных страницах показываются разные сайдбары!"
+
+#: ../includes/options-config.php:9
+msgid "Shortcode Builder"
+msgstr "Построитель макрокодов"
+
+#: ../includes/options-config.php:10
+msgid ""
+"With our shortcode builder and lots of shortcodes, you can easily create "
+"nested shortcodes and build custom pages!"
+msgstr ""
+"С нашим построителем макрокодов и набора макрокодов вы можете создавать свои "
+"макрокоды и собственные страницы!"
+
+#: ../includes/options-config.php:11
+msgid "Multi Portfolio"
+msgstr "Множественные портфолио"
+
+#: ../includes/options-config.php:12
+msgid ""
+"7 portfolio layouts with Isotope filtering, 3 blog layouts and multiple "
+"other alternate layouts for interior pages!"
+msgstr ""
+"7 макетов портфолио с Isotope-фильтрацией, 3 макета блогов и множество "
+"макетов внутренних страниц!"
+
+#: ../includes/options-config.php:13
+msgid "Typography"
+msgstr "Типографика"
+
+#: ../includes/options-config.php:14
+msgid ""
+"StrongHold Pro loves typography, you can choose from over 500+ Google Fonts "
+"and Standard Fonts to customize your site!"
+msgstr ""
+"StrongHold Pro любит типографику, вы можете выбрать любой из 500+  Google "
+"Fonts и Standard Fonts для своего сайта!"
+
+#: ../includes/options-config.php:15
+msgid "Awesome Sliders"
+msgstr "Потрясающие слайдеры"
+
+#: ../includes/options-config.php:16
+msgid ""
+"StrongHold Pro includes two types of slider. You can use both Flex and "
+"Elastic sliders anywhere in your site."
+msgstr ""
+"StrongHold Pro включает два типа слайдеров. Вы можете использовать Flex и "
+"Elastic слайдеры повсюду на вашем сайте."
+
+#: ../includes/options-config.php:17
+msgid "Woo Commerce"
+msgstr "Woo Commerce"
+
+#: ../includes/options-config.php:18
+msgid ""
+"StrongHold Pro has full design/code integration for WooCommerce, your shop "
+"will look as good as the rest of your site!"
+msgstr ""
+"StrongHold Pro полностью интегрирован с WooCommerce по коду и дизайну, ваш "
+"магазин будет выглядеть также безупречно, как и весь ваш сайт!"
+
+#: ../includes/options-config.php:19
+msgid "Custom Widget"
+msgstr "Произвольные виджеты"
+
+#: ../includes/options-config.php:20
+msgid ""
+"We offer many custom widgets that are stylized and ready for use. Simply "
+"drag &amp; drop into place to activate!"
+msgstr ""
+"Мы предлагаем множество произвольных виджетов, которые стилизованы и готовы "
+"к  употреблению. Просто перетащите их в нужное место для активации!"
+
+#: ../includes/options-config.php:21
+msgid "Advanced Admin"
+msgstr "Расширенное администрирование"
+
+#: ../includes/options-config.php:22
+msgid ""
+"Advanced Redux Framework for theme options panel, you can customize any part "
+"of your site quickly and easily!"
+msgstr ""
+"Расширенная административная панель Redux Framework для управления "
+"параметрами темы позволит вам настроить ее легко и быстро!"
+
+#: ../includes/options-config.php:23
+msgid "Font Awesome"
+msgstr "Font Awesome"
+
+#: ../includes/options-config.php:24
+msgid ""
+"Font Awesome icons are fully integrated into the theme. Use them anywhere in "
+"your site in 6 different sizes!"
+msgstr ""
+"Font Awesome полностью интегрирован в тему. Используйте его по всему сайту в "
+"6 различных размерах!"
+
+#: ../includes/options-config.php:25
+msgid "Responsive Layout"
+msgstr "Отзывчивый дизайн"
+
+#: ../includes/options-config.php:26
+msgid ""
+"StrongHold Pro is fully responsive and can adapt to any screen size. Resize "
+"your browser window to view it!"
+msgstr ""
+"StrongHold Pro имеет полностью отзывчивый дизайн, который подойдет для "
+"любого размера дисплея. Измените масштаб вашего браузера, чтобы в этом "
+"убедиться!"
+
+#: ../includes/options-config.php:27
+msgid "Testimonials"
+msgstr "Отзывы"
+
+#: ../includes/options-config.php:28
+msgid ""
+"With our testimonial post type, shortcode and widget, Displaying "
+"testimonials is a breeze."
+msgstr ""
+"С нашим типом записей \"отзывы\", макрокодом и виджетами их показ становится "
+"очень легким."
+
+#: ../includes/options-config.php:29
+msgid "Social Media"
+msgstr "Социальные сети"
+
+#: ../includes/options-config.php:30
+msgid ""
+"Want your users to stay in touch? No problem, StrongHold Pro has Social "
+"Media icons all throughout the theme!"
+msgstr ""
+"Хотите, чтобы ваши пользователи всегда были на связи? Вы без проблем можете "
+"использовать социальные иконки повсюду!"
+
+#: ../includes/options-config.php:31
+msgid "Google Map"
+msgstr "Google Map"
+
+#: ../includes/options-config.php:32
+msgid ""
+"StrongHold Pro includes Goole Map as shortcode and widget. So, you can use "
+"it anywhere in your site!"
+msgstr ""
+"Тема содержит Google Map в виде макрокода и виджета. Вы можете использовать "
+"карту повсюду, где это необходимо!"
+
+#: ../includes/options-config.php:33
+msgid "View Demo"
+msgstr "Смотреть демо"
+
+#: ../includes/options-config.php:34
+msgid "Upgrade To Pro"
+msgstr "Обновить до Pro"
+
+#: ../includes/options-config.php:123 ../admin/class.wbls-customizer-api-wrapper.
+#: php:83
+msgid "Upgrade To StrongHold Pro"
+msgstr "Обновить до StrongHold Pro"
+
+#: ../includes/options-config.php:124
+msgid "Theme Upgrade"
+msgstr "Обновление темы"
+
+#: ../includes/options-config.php:147
+msgid "Upgrade to Pro"
+msgstr "Обновить до Pro"
+
+#: ../includes/options-config.php:148
+msgid ""
+"Drag and Drop Page Builder support and more options available in Pro version."
+" <a href=\"http://www.webulousthemes.com/?add-to-cart=33\">Upgrade Now</a>"
+msgstr ""
+"Поддержка Drag and Drop Page Builder реализована в  Pro версии. <a "
+"href=\"http://www.webulousthemes.com/?add-to-cart=33\">Обновить сейчас</a>"
+
+#: ../includes/options-config.php:153 ../admin/class.wbls-customize-disabled-
+#: select-control.php:14
+msgid "Select Color Scheme"
+msgstr "Выбрать цветовую схему"
+
+#: ../includes/options-config.php:155
+msgid "Red"
+msgstr "Красная"
+
+#: ../includes/options-config.php:156
+msgid "Green"
+msgstr "Зеленая"
+
+#: ../includes/options-config.php:157
+msgid "Blue"
+msgstr "Синяя"
+
+#: ../includes/options-config.php:169
+msgid "StrongHold Options"
+msgstr "Опции темы"
+
+#: ../includes/options-config.php:170
+msgid "StrongHold Theme Options"
+msgstr "Опции темы"
+
+#: ../includes/options-config.php:173
+msgid "General"
+msgstr "Общие"
+
+#: ../includes/options-config.php:174
+msgid "General settings that affects overall site"
+msgstr "Общие установки, влияющие на весь сайт "
+
+#: ../includes/options-config.php:178
+msgid "Enable Breadcrumb"
+msgstr "Включить \"хлебные крошки\""
+
+#: ../includes/options-config.php:184
+msgid "Select Breadcrumb Character"
+msgstr "Выбрать символ для \"хлебных крошек\""
+
+#: ../includes/options-config.php:196
+msgid "Header"
+msgstr "Загогловок"
+
+#: ../includes/options-config.php:197
+msgid "Header options"
+msgstr "Параметры заголовка"
+
+#: ../includes/options-config.php:201
+msgid "Logo as Title"
+msgstr "Логотип в качестве заголовка"
+
+#: ../includes/options-config.php:207
+msgid "Upload Logo"
+msgstr "Загрузить логотип"
+
+#: ../includes/options-config.php:212
+msgid "Show site Tagline"
+msgstr "Показать описание сайта"
+
+#: ../includes/options-config.php:219
+msgid "Footer"
+msgstr "Подвал"
+
+#: ../includes/options-config.php:220
+msgid "Footer related options"
+msgstr "Параметры подвала"
+
+#: ../includes/options-config.php:224
+msgid "Footer Widget Area"
+msgstr "Область виждетов подвала"
+
+#: ../includes/options-config.php:231
+msgid "Home"
+msgstr "Главная страница"
+
+#: ../includes/options-config.php:232
+msgid "Home Page options"
+msgstr "Параметры главной страницы"
+
+#: ../includes/options-config.php:236
+msgid "Slider Posts Category"
+msgstr "Рубрика записей для слайдера"
+
+#: ../includes/options-config.php:241
+msgid "No. of Sliders"
+msgstr "Количество слайдеров"
+
+#: ../includes/options-config.php:246
+msgid "Service Section #1"
+msgstr "Раздел \"Услуги\" #1"
+
+#: ../includes/options-config.php:251
+msgid "Service Section #2"
+msgstr "Раздел \"Услуги\" #2"
+
+#: ../includes/options-config.php:256
+msgid "Service Section #3"
+msgstr "Раздел \"Услуги\" #3"
+
+#: ../includes/options-config.php:261
+msgid "No. of Recent Posts"
+msgstr "Количество последних записей"
+
+#: ../includes/options-config.php:267
+msgid "Blog"
+msgstr "Блог"
+
+#: ../includes/options-config.php:268
+msgid "Blog related options"
+msgstr "Параметры блога"
+
+#: ../includes/options-config.php:272
+msgid "Enable Featured Image"
+msgstr "Включить миниатюру"
+
+#: ../includes/options-config.php:278
+msgid "Enable Single Post Featured Image"
+msgstr "Включить миниатюру для одиночной записи"
+
+#: ../includes/extras.php:64
+#, php-format
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: ../includes/hooks-filters.php:4
+msgid "Powered by "
+msgstr "Разработано "
+
+#: ../includes/hooks-filters.php:4
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: ../includes/hooks-filters.php:4
+msgid "WordPress"
+msgstr "WordPress"
+
+#: ../includes/hooks-filters.php:6
+#, php-format
+msgid "Theme: %1$s by %2$s"
+msgstr "Тема: %1$s автор %2$s"
+
+#: ../header.php:21
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: ../header.php:56 ../functions.php:53
+msgid "Primary Menu"
+msgstr "Первичное меню"
+
+#: ../search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: ../content-single.php:35 ../content.php:46
+msgid "Pages: "
+msgstr "Страницы:"
+
+#: ../content-none.php:13
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: ../content-none.php:19
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать первую запись? <a href=\"%1$s\">Начните здесь</a>."
+
+#: ../content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Извините, ничего не найдено по вашему запросу. Попробуйте опять с другими "
+"параметрами поиска."
+
+#: ../content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "Похоже, мы не может найти то, что вам нужно. Возможно, поиск вам поможет."
+
+#: ../comments.php:35 ../comments.php:52
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: ../comments.php:36 ../comments.php:53
+msgid "&larr; Older Comments"
+msgstr "&larr; предыдущие комментарии"
+
+#: ../comments.php:37 ../comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr "Последние комментарии &rarr;"
+
+#: ../comments.php:64
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#. translators: %s: Name of current post
+#: ../content.php:39
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Продолжить чтение %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Искомой страницы нет."
+
+#: ../404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr "По этому адресу ничего нет. Попробуете поискать по одному из линков ниже?"
+
+#: ../404.php:27
+msgid "Most Used Categories"
+msgstr "Популярные рубрики"
+
+#. translators: %1$s: smiley
+#: ../404.php:44
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr "Попробуйте поискать в помесячных архивах. %1$s"
+
+#: ../functions.php:88
+msgid "Sidebar"
+msgstr "Боковая колонка"
+
+#: ../functions.php:98
+msgid "Top Left"
+msgstr "Слева вверху"
+
+#: ../functions.php:108
+msgid "Top Right"
+msgstr "Справа вверху"
+
+#: ../functions.php:118
+#, php-format
+msgid "Footer %1$s"
+msgstr "Подвал %1$s"
+
+#: ../functions.php:128
+msgid "Footer Nav"
+msgstr "Меню подвала"
+
+#: ../content-page.php:18
+msgid "Pages:"
+msgstr "Страницы"
+
+#: ../content-page.php:25 ../includes/template-tags.php:92
+msgid "Edit"
+msgstr "Редактировать"
+
+#: ../includes/template-tags.php:21
+msgid "Posts navigation"
+msgstr "Навигация по записям"
+
+#: ../includes/template-tags.php:25
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Ранние записи"
+
+#: ../includes/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Последние записи <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../includes/template-tags.php:52
+msgid "Post navigation"
+msgstr "Навигация по записям"
+
+#: ../includes/template-tags.php:118
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+#: ../includes/template-tags.php:118
+msgid "1 Comment"
+msgstr "1 комментарий"
+
+#: ../includes/template-tags.php:118
+msgid "% Comments"
+msgstr "% комментариев"
+
+#: ../includes/template-tags.php:137
+#, php-format
+msgid "Category: %s"
+msgstr "Рубрика: %s"
+
+#: ../includes/template-tags.php:139
+#, php-format
+msgid "Tag: %s"
+msgstr "Метка: %s"
+
+#: ../includes/template-tags.php:141
+#, php-format
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+#: ../includes/template-tags.php:143
+#, php-format
+msgid "Year: %s"
+msgstr "Год: %s"
+
+#: ../includes/template-tags.php:145
+#, php-format
+msgid "Month: %s"
+msgstr "Месяц: %s"
+
+#: ../includes/template-tags.php:147
+#, php-format
+msgid "Day: %s"
+msgstr "День: %s"
+
+#: ../includes/template-tags.php:149
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Боковые колонки"
+
+#: ../includes/template-tags.php:151
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Галереи"
+
+#: ../includes/template-tags.php:153
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Изображения"
+
+#: ../includes/template-tags.php:155
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Видео"
+
+#: ../includes/template-tags.php:157
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Цитаты"
+
+#: ../includes/template-tags.php:159
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Ссылки"
+
+#: ../includes/template-tags.php:161
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Состояния"
+
+#: ../includes/template-tags.php:163
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Аудио"
+
+#: ../includes/template-tags.php:165
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Чаты"
+
+#: ../includes/template-tags.php:167
+#, php-format
+msgid "Archives: %s"
+msgstr "Архивы: %s"
+
+#: ../includes/template-tags.php:173
+msgid "Archives"
+msgstr "Архивы"
+
+#: ../includes/template-tags.php:280
+msgid "Latest Posts"
+msgstr "Последние записи"
+
+#: ../includes/template-tags.php:296
+msgid "Read More"
+msgstr "Читать далее"
+
+#: ../includes/template-tags.php:319
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr "Архивы рубрик \"%s\""
+
+#: ../includes/template-tags.php:320
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr "Результаты поиска по \"%s\" запросу"
+
+#: ../includes/template-tags.php:321
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr "Записи с меткой \"%s\""
+
+#: ../includes/template-tags.php:322
+#, php-format
+msgid "Articles Posted by %s"
+msgstr "Статьи автора %s"
+
+#: ../includes/template-tags.php:323
+msgid "Error 404"
+msgstr "Ошибка 404"
+
+#: ../includes/template-tags.php:449
+msgid "Page"
+msgstr "Страница"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Font, translate this to 'off'. Do not translate into your own language.
+#: ../includes/enqueue.php:34
+msgctxt "Font: on or off"
+msgid "on"
+msgstr "вкл."
+
+#: ../includes/options-config.php:3
+msgid "Page Builder"
+msgstr "Построитель страниц"
+
+#: ../includes/options-config.php:4
+msgid ""
+"StrongHold Pro supports Page Builder. All our shortcodes can be used as "
+"widgets too. You can drag and drop our widgets with page builder visual "
+"editor."
+msgstr ""
+"Эта тема поддерживает Построитель страниц. Все ваши шорткоды могут быть "
+"использованы, как виджеты. Вы можете перетаскивать наши виджеты в визуальном "
+"редакторе страниц."
+
+#: ../includes/options-config.php:5
+msgid "Page Layout"
+msgstr "Макет страницы"
+
+#: ../includes/options-config.php:6
+msgid ""
+"StrongHold Pro offers many different page layouts so you can quickly and "
+"easily create your pages with various layout without any hassle!"
+msgstr ""
+"StrongHold Pro предлагает много различных макетов страниц, которые вы можете "
+"использовать при создании своих макетов без всяких хлопот!"
+
+#: ../includes/options-config.php:7
+msgid "Unlimited Sidebar"
+msgstr "Неограниченное количество сайдбаров"

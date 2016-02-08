@@ -1,0 +1,143 @@
+#wp-calendar{
+    max-width: 100%;
+    table-layout: fixed;
+}
+#wp-calendar td,
+#wp-calendar tr,
+#wp-calendar th{
+    border: none;
+    background: none;
+}
+#wp-calendar th{
+    text-align: center;
+}
+#wp-calendar td{
+    padding: 0px;
+    min-height: 22px;
+    line-height: 22px;
+    font-size: 12px;
+    text-align: center;
+}
+#wp-calendar tr{
+    padding-bottom: 5px;
+}
+#wp-calendar td a{
+    display: block;
+    text-decoration: none;
+}
+#wp-calendar td a:hover{
+}
+#wp-calendar #prev a,
+#wp-calendar #next a{
+    font-weight: bold;
+    line-height: 32px;
+    margin-top: 10px;
+}
+#wp-calendar #today{
+}
+#wp-calendar caption{
+    text-transform: uppercase;
+    font-size:14px;
+    padding-top: 10px;
+    font-weight: bold;
+}
+/*Sidebar Start */
+#ti-sidebar{
+}
+.slidebar-right{
+    float: right;
+}
+.sidebar-left{
+    float:left;
+}
+#ti-sidebar h5{
+}
+#ti-sidebar .widget,
+#ti-left-sidebar .widget,
+#ti-subfooter-sidebar .widget,
+#ti-postcontent-sidebar .widget{
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    padding: 0px 0px 10px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+#ti-sidebar .widget>*,
+#ti-left-sidebar .widget>*,
+#ti-postcontent-sidebar .widget>*,
+#ti-subfooter-sidebar .widget>*,
+#ti-subfooter-sidebar .widget>*{
+    padding:0px 10px;
+}
+#ti-sidebar .widget>h1,
+#ti-sidebar .widget>h2,
+#ti-sidebar .widget>h3,
+#ti-sidebar .widget>h4,
+#ti-sidebar .widget>h5,
+#ti-sidebar .widget>h6,
+#ti-left-sidebar .widget>h1,
+#ti-left-sidebar .widget>h2,
+#ti-left-sidebar .widget>h3,
+#ti-left-sidebar .widget>h4,
+#ti-left-sidebar .widget>h5,
+#ti-left-sidebar .widget>h6,
+#ti-postcontent-sidebar .widget>h1,
+#ti-postcontent-sidebar .widget>h2,
+#ti-postcontent-sidebar .widget>h3,
+#ti-postcontent-sidebar .widget>h4,
+#ti-postcontent-sidebar .widget>h5,
+#ti-postcontent-sidebar .widget>h6,
+#ti-subfooter-sidebar .widget>h1,
+#ti-subfooter-sidebar .widget>h2,
+#ti-subfooter-sidebar .widget>h3,
+#ti-subfooter-sidebar .widget>h4,
+#ti-subfooter-sidebar .widget>h5,
+#ti-subfooter-sidebar .widget>h6{
+    padding: 5px 10px;
+    font-size: 18px;
+    font-weight: normal;
+}
+.widget .post-date{
+    font-weight: normal;
+    font-style: italic;
+}
+.sidebar-latest-post{
+    margin: 10px 0px;
+}
+.sidebar-latest-post img{
+    float: left;
+    clear: left;
+    margin-right: 10px;
+
+}
+.sidebar-latest-post a{
+    text-decoration: none;
+    display: block;
+    font-size: 14px;
+}
+/*tags*/
+.sidebar-tags span{
+    line-height: 25px;
+}
+.tag12{
+    font-size: 12px;
+}
+.tag14{
+    font-size: 14px;
+}
+.tag16{
+    font-size: 16px;
+}
+.tag18{
+    font-size: 18px;
+}
+.tag20{
+    font-size: 20px;
+}
+.tag22{
+    font-size: 22px;
+}
+.tag24{
+    font-size: 24px;
+}

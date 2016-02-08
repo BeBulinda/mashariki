@@ -1,0 +1,776 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: waves\n"
+"POT-Creation-Date: 2015-09-14 15:19+0530\n"
+"PO-Revision-Date: 2015-09-14 15:19+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../header.php:21 ../header-blank.php:21
+msgid "Skip to content"
+msgstr ""
+
+#: ../header.php:72 ../front-page.php:74 ../front-page.php:280
+#: ../functions.php:53
+msgid "Primary Menu"
+msgstr ""
+
+#: ../content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: ../content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../front-page.php:24
+msgid "Clean and Modern Design"
+msgstr ""
+
+#: ../front-page.php:25
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod."
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+msgstr ""
+
+#: ../front-page.php:26
+msgid "Buy Now"
+msgstr ""
+
+#: ../front-page.php:90
+msgid "We are creative agency"
+msgstr ""
+
+#: ../front-page.php:91
+msgid ""
+"In sodales tellus sed arcu euismod tempor. Curabitur fringilla nibh quis "
+"lorem interdum mattis. Vivamus ornare placerat tellus ut accumsan.In sodales "
+"tellus sed arcu euismod tem"
+msgstr ""
+
+#: ../front-page.php:98 ../includes/options-config.php:23
+msgid "Font Awesome"
+msgstr ""
+
+#: ../front-page.php:99 ../includes/options-config.php:24
+msgid ""
+"Font Awesome icons are fully integrated into the theme. Use them anywhere in "
+"your site in 6 different sizes!"
+msgstr ""
+
+#: ../front-page.php:105
+msgid "Awesome Slider"
+msgstr ""
+
+#: ../front-page.php:106
+msgid ""
+"waves includes Flex slider. You can use Flex slider anywhere in your site."
+msgstr ""
+
+#: ../front-page.php:112 ../includes/options-config.php:25
+msgid "Responsive Layout"
+msgstr ""
+
+#: ../front-page.php:113
+msgid ""
+"waves is fully responsive and can adapt to any screen size. Resize your "
+"browser window to view it!"
+msgstr ""
+
+#: ../front-page.php:119
+msgid "Excellent Support "
+msgstr ""
+
+#: ../front-page.php:120
+msgid ""
+"We truly care about our customers and theme performance. We assure you that "
+"you will get the best after sale support like never before!"
+msgstr ""
+
+#: ../front-page.php:127 ../includes/template-tags.php:283
+msgid "FROM BLOG"
+msgstr ""
+
+#: ../front-page.php:134 ../front-page.php:152 ../front-page.php:170
+msgid "Test Post"
+msgstr ""
+
+#: ../front-page.php:142 ../front-page.php:160
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, "
+"quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo "
+"consequat."
+msgstr ""
+
+#: ../front-page.php:143 ../front-page.php:161 ../front-page.php:179
+msgid "Read more"
+msgstr ""
+
+#: ../front-page.php:178
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, "
+"quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo "
+"consequat. "
+msgstr ""
+
+#: ../search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../content.php:47
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../content.php:54 ../content-single.php:41
+msgid "Pages: "
+msgstr ""
+
+#: ../comments.php:35 ../comments.php:52
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:36 ../comments.php:53
+msgid "<span class=\"meta-nav\">&larr;</span> Previous Comments"
+msgstr ""
+
+#: ../comments.php:37 ../comments.php:54
+msgid "Next Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: ../404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: ../404.php:27
+msgid "Most Used Categories"
+msgstr ""
+
+#: ../404.php:44
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: ../functions.php:97
+msgid "Sidebar"
+msgstr ""
+
+#: ../functions.php:106
+msgid "Top Left"
+msgstr ""
+
+#: ../functions.php:116
+msgid "Top Right"
+msgstr ""
+
+#: ../functions.php:128
+#, php-format
+msgid "Footer %1$s"
+msgstr ""
+
+#: ../functions.php:138
+msgid "Footer Nav"
+msgstr ""
+
+#: ../content-page.php:18
+msgid "Pages:"
+msgstr ""
+
+#: ../content-page.php:25 ../includes/template-tags.php:92
+#: ../includes/template-tags.php:508
+msgid "Edit"
+msgstr ""
+
+#: ../includes/extras.php:64
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../includes/options-config.php:3
+msgid "Page Builder"
+msgstr ""
+
+#: ../includes/options-config.php:4
+msgid ""
+"Waves Pro supports Page Builder. All our shortcodes can be used as widgets "
+"too. You can drag and drop our widgets with page builder visual editor."
+msgstr ""
+
+#: ../includes/options-config.php:5
+msgid "Page Layout"
+msgstr ""
+
+#: ../includes/options-config.php:6
+msgid ""
+"Waves Pro offers many different page layouts so you can quickly and easily "
+"create your pages with various layout without any hassle!"
+msgstr ""
+
+#: ../includes/options-config.php:7
+msgid "Unlimited Sidebar"
+msgstr ""
+
+#: ../includes/options-config.php:8
+msgid ""
+"Unlimited sidebars allows you to create multiple sidebars. Check out our "
+"demo site to see how different pages displays different sidebars!"
+msgstr ""
+
+#: ../includes/options-config.php:9
+msgid "Shortcode Builder"
+msgstr ""
+
+#: ../includes/options-config.php:10
+msgid ""
+"With our shortcode builder and lots of shortcodes, you can easily create "
+"nested shortcodes and build custom pages!"
+msgstr ""
+
+#: ../includes/options-config.php:11
+msgid "Multi Portfolio"
+msgstr ""
+
+#: ../includes/options-config.php:12
+msgid ""
+"7 portfolio layouts with Isotope filtering, 3 blog layouts and multiple "
+"other alternate layouts for interior pages!"
+msgstr ""
+
+#: ../includes/options-config.php:13
+msgid "Typography"
+msgstr ""
+
+#: ../includes/options-config.php:14
+msgid ""
+"Waves Pro loves typography, you can choose from over 500+ Google Fonts and "
+"Standard Fonts to customize your site!"
+msgstr ""
+
+#: ../includes/options-config.php:15
+msgid "Awesome Sliders"
+msgstr ""
+
+#: ../includes/options-config.php:16
+msgid ""
+"waves Pro includes two types of slider. You can use both Flex and Elastic "
+"sliders anywhere in your site."
+msgstr ""
+
+#: ../includes/options-config.php:17
+msgid "Woo Commerce"
+msgstr ""
+
+#: ../includes/options-config.php:18
+msgid ""
+"Waves Pro has full design/code integration for WooCommerce, your shop will "
+"look as good as the rest of your site!"
+msgstr ""
+
+#: ../includes/options-config.php:19
+msgid "Custom Widget"
+msgstr ""
+
+#: ../includes/options-config.php:20
+msgid ""
+"We offer many custom widgets that are stylized and ready for use. Simply "
+"drag &amp; drop into place to activate!"
+msgstr ""
+
+#: ../includes/options-config.php:21
+msgid "Advanced Admin"
+msgstr ""
+
+#: ../includes/options-config.php:22
+msgid ""
+"Advanced Redux Framework for theme options panel, you can customize any part "
+"of your site quickly and easily!"
+msgstr ""
+
+#: ../includes/options-config.php:26
+msgid ""
+"Waves Pro is fully responsive and can adapt to any screen size. Resize your "
+"browser window to view it!"
+msgstr ""
+
+#: ../includes/options-config.php:27
+msgid "Testimonials"
+msgstr ""
+
+#: ../includes/options-config.php:28
+msgid ""
+"With our testimonial post type, shortcode and widget, Displaying "
+"testimonials is a breeze."
+msgstr ""
+
+#: ../includes/options-config.php:29
+msgid "Social Media"
+msgstr ""
+
+#: ../includes/options-config.php:30
+msgid ""
+"Want your users to stay in touch? No problem, waves Pro has Social Media "
+"icons all throughout the theme!"
+msgstr ""
+
+#: ../includes/options-config.php:31
+msgid "Google Map"
+msgstr ""
+
+#: ../includes/options-config.php:32
+msgid ""
+"Waves Pro includes Goole Map as shortcode and widget. So, you can use it "
+"anywhere in your site!"
+msgstr ""
+
+#: ../includes/options-config.php:33
+msgid "View Demo"
+msgstr ""
+
+#: ../includes/options-config.php:34
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: ../includes/options-config.php:123
+msgid "Upgrade To Waves Pro"
+msgstr ""
+
+#: ../includes/options-config.php:124
+msgid "Theme Upgrade"
+msgstr ""
+
+#: ../includes/options-config.php:147
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: ../includes/options-config.php:148
+msgid ""
+"Drag and Drop Page Builder support and more options available in Pro "
+"version. <a href=\"http://www.webulousthemes.com/?add-to-cart=2266\">Upgrade "
+"Now</a>"
+msgstr ""
+
+#: ../includes/options-config.php:153
+#: ../admin/class.wbls-customize-disabled-select-control.php:14
+msgid "Select Color Scheme"
+msgstr ""
+
+#: ../includes/options-config.php:155
+msgid "Red"
+msgstr ""
+
+#: ../includes/options-config.php:156
+msgid "Green"
+msgstr ""
+
+#: ../includes/options-config.php:157
+msgid "Blue"
+msgstr ""
+
+#: ../includes/options-config.php:169
+msgid "Waves Options"
+msgstr ""
+
+#: ../includes/options-config.php:170
+msgid "Waves Theme Options"
+msgstr ""
+
+#: ../includes/options-config.php:173
+msgid "General"
+msgstr ""
+
+#: ../includes/options-config.php:174
+msgid "General settings that affects overall site"
+msgstr ""
+
+#: ../includes/options-config.php:178
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: ../includes/options-config.php:184
+msgid "Select Breadcrumb Character"
+msgstr ""
+
+#: ../includes/options-config.php:196
+msgid "Header"
+msgstr ""
+
+#: ../includes/options-config.php:197
+msgid "Header options"
+msgstr ""
+
+#: ../includes/options-config.php:201
+msgid "Logo as Title"
+msgstr ""
+
+#: ../includes/options-config.php:207
+msgid "Upload Logo"
+msgstr ""
+
+#: ../includes/options-config.php:212
+msgid "Show site Tagline"
+msgstr ""
+
+#: ../includes/options-config.php:219
+msgid "Footer"
+msgstr ""
+
+#: ../includes/options-config.php:220
+msgid "Footer related options"
+msgstr ""
+
+#: ../includes/options-config.php:224
+msgid "Footer Widget Area"
+msgstr ""
+
+#: ../includes/options-config.php:231
+msgid "Home"
+msgstr ""
+
+#: ../includes/options-config.php:232
+msgid "Home Page options"
+msgstr ""
+
+#: ../includes/options-config.php:236
+msgid "Show Demo Content"
+msgstr ""
+
+#: ../includes/options-config.php:242
+msgid "Slider Posts Category"
+msgstr ""
+
+#: ../includes/options-config.php:247
+msgid "No. of Sliders"
+msgstr ""
+
+#: ../includes/options-config.php:252
+msgid "Service Top Page"
+msgstr ""
+
+#: ../includes/options-config.php:257
+msgid "Service Section #1"
+msgstr ""
+
+#: ../includes/options-config.php:262
+msgid "Service Section #2"
+msgstr ""
+
+#: ../includes/options-config.php:267
+msgid "Service Section #3"
+msgstr ""
+
+#: ../includes/options-config.php:272
+msgid "Service Section #4"
+msgstr ""
+
+#: ../includes/options-config.php:277
+msgid "No. of Recent Posts"
+msgstr ""
+
+#: ../includes/options-config.php:283
+msgid "Blog"
+msgstr ""
+
+#: ../includes/options-config.php:284
+msgid "Blog related options"
+msgstr ""
+
+#: ../includes/options-config.php:288
+msgid "Enable Featured Image"
+msgstr ""
+
+#: ../includes/options-config.php:294
+msgid "Enable Single Post Featured Image"
+msgstr ""
+
+#: ../includes/hooks-filters.php:4
+#, php-format
+msgid "<p>Powered by <a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#: ../includes/hooks-filters.php:5
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: ../includes/hooks-filters.php:5
+msgid "WordPress"
+msgstr ""
+
+#: ../includes/hooks-filters.php:7
+#, php-format
+msgid "Theme: %1$s by %2$s"
+msgstr ""
+
+#: ../includes/enqueue.php:36
+msgctxt "Font: on or off"
+msgid "on"
+msgstr ""
+
+#: ../includes/template-tags.php:21
+msgid "Posts navigation"
+msgstr ""
+
+#: ../includes/template-tags.php:25
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../includes/template-tags.php:29
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../includes/template-tags.php:52
+msgid "Post navigation"
+msgstr ""
+
+#: ../includes/template-tags.php:55
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span>&nbsp;%title"
+msgstr ""
+
+#: ../includes/template-tags.php:56
+msgctxt "Next post link"
+msgid "%title&nbsp;<span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../includes/template-tags.php:82
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: ../includes/template-tags.php:87 ../includes/template-tags.php:473
+#: ../includes/template-tags.php:481
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#: ../includes/template-tags.php:105 ../includes/template-tags.php:111
+msgid ", "
+msgstr ""
+
+#: ../includes/template-tags.php:107 ../includes/template-tags.php:113
+#, php-format
+msgid "%1$s "
+msgstr ""
+
+#: ../includes/template-tags.php:139
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: ../includes/template-tags.php:141
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: ../includes/template-tags.php:143
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: ../includes/template-tags.php:145
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: ../includes/template-tags.php:145
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: ../includes/template-tags.php:147
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: ../includes/template-tags.php:147
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: ../includes/template-tags.php:149
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: ../includes/template-tags.php:149
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: ../includes/template-tags.php:151
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr ""
+
+#: ../includes/template-tags.php:153
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr ""
+
+#: ../includes/template-tags.php:155
+msgctxt "post format archive title"
+msgid "Images"
+msgstr ""
+
+#: ../includes/template-tags.php:157
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr ""
+
+#: ../includes/template-tags.php:159
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr ""
+
+#: ../includes/template-tags.php:161
+msgctxt "post format archive title"
+msgid "Links"
+msgstr ""
+
+#: ../includes/template-tags.php:163
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr ""
+
+#: ../includes/template-tags.php:165
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr ""
+
+#: ../includes/template-tags.php:167
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr ""
+
+#: ../includes/template-tags.php:169
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#: ../includes/template-tags.php:173
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: ../includes/template-tags.php:175
+msgid "Archives"
+msgstr ""
+
+#: ../includes/template-tags.php:306
+msgid "Read More"
+msgstr ""
+
+#: ../includes/template-tags.php:329
+msgid "<i class=\"fa fa-home\"></i>"
+msgstr ""
+
+#: ../includes/template-tags.php:330
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: ../includes/template-tags.php:331
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: ../includes/template-tags.php:332
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: ../includes/template-tags.php:333
+#, php-format
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: ../includes/template-tags.php:334
+msgid "Error 404"
+msgstr ""
+
+#: ../includes/template-tags.php:460
+msgid "Page"
+msgstr ""
+
+#: ../includes/template-tags.php:490 ../includes/template-tags.php:499
+msgid "Leave a comment"
+msgstr ""
+
+#: ../includes/template-tags.php:490 ../includes/template-tags.php:499
+msgid "1 Comment"
+msgstr ""
+
+#: ../includes/template-tags.php:490 ../includes/template-tags.php:499
+msgid "% Comments"
+msgstr ""
+
+#: ../includes/template-tags.php:521
+#, php-format
+msgid "No Comments<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: ../includes/template-tags.php:526
+#, php-format
+msgid "1 Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: ../includes/template-tags.php:531
+#, php-format
+msgid "%1$s Comment<span class=\"screen-reader-text\"> on %2$s</span>"
+msgid_plural "%1$s Comments<span class=\"screen-reader-text\"> on %2$s</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/template-tags.php:537
+#, php-format
+msgid "Comments Off<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: ../includes/template-tags.php:545
+msgid "Enter your password to view comments."
+msgstr ""
+
+#: ../admin/class.wbls-customizer-api-wrapper.php:83
+msgid "Upgrade To waves Pro"
+msgstr ""
+
+#: ../admin/class.wbls-customizer-api-wrapper.php:83
+msgid "Documentation"
+msgstr ""

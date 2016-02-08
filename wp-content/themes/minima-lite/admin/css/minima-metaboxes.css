@@ -1,0 +1,35 @@
+#min-slider-editor{
+    display: block;
+    border-top: 1px solid #DDDDDD;
+    padding-top: 10px;
+    margin-top:10px;
+}
+#min-slider-editor .no-items{
+    color: #999999;
+    font-style: italic;
+}
+#min-slider-editor .minima-slide label{
+    display: inline-block;
+    min-width: 150px;
+    float: left;
+}
+#min-slider-editor .minima-slide{
+    background: #EEEEEE;
+    padding:10px;
+    margin: 10px 0px;
+}
+#min-slider-editor .minima-slide .minima-delete-slide{
+    float: right;
+    font-weight: bold;
+    color: #dd7d7d;
+    cursor: pointer;
+    font-size: 20px;
+}
+.sp-img-preview{
+    max-width: 300px;
+    max-height: 300px;
+}
+#min-slider-editor .minima-slide .image-wrapper{
+    display: block;
+    margin-left: 150px;
+}

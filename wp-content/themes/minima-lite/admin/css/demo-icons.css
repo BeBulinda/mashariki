@@ -1,0 +1,217 @@
+.icon-demo{
+    margin: 20px auto;
+}
+.icon-demo span[class^="icon"]{
+    font-family: 'MinimaIcons';
+    font-size: 28px;
+}
+.icon-demo .icon-arrowleftlong:after{
+    content: " \0063"
+}
+.icon-demo .icon-arrowrightlong:after{
+    content: " \0064"
+}
+.icon-demo .icon-arrowleftthin:after{
+    content: " \0065"
+}
+.icon-demo .icon-arrowrightthin:after{
+    content: " \0066"
+}
+.icon-demo .icon-rss:after{
+    content: " \0062";
+}
+.icon-demo .icon-menu:after{
+    content: " \0061"
+}
+.icon-demo .icon-2cols:after{
+    content: " \0021"
+}
+.icon-demo .icon-3cols:after{
+    content: " \0022"
+}
+.icon-demo .icon-4cols:after{
+    content: " \0023"
+}
+.icon-demo .icon-5cols:after{
+    content: " \0024"
+}
+.icon-demo .icon-icon-box:after{
+    content: " \0025"
+}
+.icon-demo .icon-shortcode:after{
+    content: " \0026"
+}
+.icon-demo .icon-slider:after{
+    content: " \0027"
+}
+.icon-demo .icon-tabs:after{
+    content: " \0028"
+}
+.icon-demo .icon-accordion:after{
+    content: " \0029"
+}
+.icon-demo .icon-button:after{
+    content: " \002A"
+}
+.icon-demo .icon-lens:after{
+    content: " \002B"
+}
+.icon-demo .icon-wrench:after{
+    content: " \002C"
+}
+.icon-demo .icon-video:after{
+    content: " \002D"
+}
+.icon-demo .icon-save:after{
+    content: " \002E"
+}
+.icon-demo .icon-presentation:after{
+    content: " \002F"
+}
+.icon-demo .icon-pencil:after{
+    content: " \0030"
+}
+.icon-demo .icon-list:after{
+    content: " \0031"
+}
+.icon-demo .icon-anchor:after{
+    content: " \0032"
+}
+.icon-demo .icon-images:after{
+    content: " \0033"
+}
+.icon-demo .icon-gear:after{
+    content: " \0034"
+}
+.icon-demo .icon-sidebar:after{
+    content: " \0035"
+}
+.icon-demo .icon-documentaion:after{
+    content: " \0036"
+}
+.icon-demo .icon-delete:after{
+    content: "\0037";
+}
+.icon-demo .icon-options:after{
+    content: "\0038";
+}
+.icon-demo .icon-chat:after{
+    content: "\0039";
+}
+.icon-demo .icon-cart:after{
+    content: "\003A";
+}
+.icon-demo .icon-camera:after{
+    content: "\003B";
+}
+.icon-demo .icon-calendar:after{
+    content: " \003C"
+}
+.icon-demo .icon-bulb:after{
+    content: " \003D"
+}
+.icon-demo .icon-brush:after{
+    content: " \003E"
+}
+.icon-demo .icon-uparrow:after{
+    content: " \003F"
+}
+.icon-demo .icon-remove-circ:after{
+    content: " \0040"
+}
+.icon-demo .icon-add-circ:after{
+    content: " \0041"
+}
+.icon-demo .icon-close-circ:after{
+    content: " \0042"
+}
+.icon-demo .icon-exclaim-circ:after{
+    content: " \0043"
+}
+.icon-demo .icon-error-circ:after{
+    content: " \0044"
+}
+.icon-demo .icon-help-circ:after{
+    content: "\0045";
+}
+.icon-demo .icon-tick-circ:after{
+    content: "\0046";
+}
+.icon-demo .icon-clock:after{
+    content: "\0047";
+}
+.icon-demo .icon-play:after{
+    content: "\0048";
+}
+.icon-demo .icon-pause:after{
+    content: "\0049";
+}
+.icon-demo .icon-stop:after{
+    content: "\004A";
+}
+.icon-demo .icon-next:after{
+    content: " \004B"
+}
+.icon-demo .icon-prev:after{
+    content: " \004C"
+}
+.icon-demo .icon-forward:after{
+    content: " \004D"
+}
+.icon-demo .icon-backward:after{
+    content: " \004E"
+}
+.icon-demo .icon-sound-full:after{
+    content: " \004F"
+}
+.icon-demo .icon-sound-mute:after{
+    content: " \0050"
+}
+.icon-demo .icon-sound-half:after{
+    content: " \0051"
+}
+.icon-demo .icon-twitterbird:after{
+    content: " \0052"
+}
+.icon-demo .icon-facebook:after{
+    content: " \0053"
+}
+.icon-demo .icon-linkedin:after{
+    content: " \0054"
+}
+.icon-demo .icon-twitter:after{
+    content: " \0055"
+}
+.icon-demo .icon-plus:after{
+    content: "\0056";
+}
+.icon-demo .icon-minus:after{
+    content: "\0057";
+}
+.icon-demo .icon-cross:after{
+    content: "\0058";
+}
+.icon-demo .icon-tick:after{
+    content: "\0059";
+}
+.icon-demo .icon-phone:after{
+    content: "\005A";
+}
+.icon-demo .icon-tab:after{
+    content: " \005B"
+}
+.icon-demo .icon-monitor:after{
+    content: " \005C"
+}
+.icon-demo .icon-reload:after{
+    content: " \005D"
+}
+.icon-demo .icon-sync:after{
+    content: " \005E"
+}
+.icon-demo .icon-rightarrow:after{
+    content: " \005F"
+}
+.icon-demo .icon-leftarrow:after{
+    content: " \0060"
+}

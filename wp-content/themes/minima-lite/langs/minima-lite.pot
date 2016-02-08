@@ -1,0 +1,626 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: minima\n"
+"POT-Creation-Date: 2014-04-23 01:11+0530\n"
+"PO-Revision-Date: 2014-04-23 01:11+0530\n"
+"Last-Translator: Minima Themes <admin@minima.com>\n"
+"Language-Team: minima <support@minima.com>\n"
+"Language: english\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 404.php:15
+#: inc/layout-actions.php:346
+msgid "Page not found"
+msgstr ""
+
+#: 404.php:19
+msgid "The page you are looking for cannot be found!"
+msgstr ""
+
+#: 404.php:20
+msgid "Perhaps searching will help or "
+msgstr ""
+
+#: 404.php:20
+msgid "Back to home"
+msgstr ""
+
+#: comments.php:21
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: comments.php:22
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: comments.php:23
+msgid "(Edit)"
+msgstr ""
+
+#: comments.php:28
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:43
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:61
+msgid "&larr; Older comments"
+msgstr ""
+
+#: comments.php:62
+msgid "Newer comments &rarr;"
+msgstr ""
+
+#: comments.php:69
+#: comments.php:79
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:88
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:89
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:90
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:91
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:99
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:105
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:112
+msgid "Your email address will not be published."
+msgstr ""
+
+#: comments.php:117
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+
+#: comments.php:124
+msgid "Name"
+msgstr ""
+
+#: comments.php:130
+msgid "Email"
+msgstr ""
+
+#: comments.php:137
+msgid "Website"
+msgstr ""
+
+#: footer.php:16
+msgid "http://minima.in/"
+msgstr ""
+
+#: functions.php:88
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:172
+msgid "Left sidebar"
+msgstr ""
+
+#: functions.php:180
+msgid "Right sidebar"
+msgstr ""
+
+#: functions.php:189
+msgid "Footer"
+msgstr ""
+
+#: functions.php:197
+msgid "After Content"
+msgstr ""
+
+#: functions.php:298
+msgid "Page"
+msgstr ""
+
+#: functions.php:300
+msgid "of"
+msgstr ""
+
+#: loop.php:8
+msgid "Sorry, no results were found."
+msgstr ""
+
+#: loop.php:80
+msgid "&larr; Previous"
+msgstr ""
+
+#: loop.php:81
+msgid "Next &rarr;"
+msgstr ""
+
+#: searchform.php:2
+msgid "Search for"
+msgstr ""
+
+#: searchform.php:3
+#: searchform.php:4
+msgid "Search"
+msgstr ""
+
+#: sidebar-subfooter.php:4
+msgid "Recent comments"
+msgstr ""
+
+#: sidebar-subfooter.php:6
+msgid "Meta"
+msgstr ""
+
+#: sidebar-subfooter.php:8
+msgid "About minima"
+msgstr ""
+
+#: sidebar-subfooter.php:13
+msgid "Latest posts"
+msgstr ""
+
+#: single.php:21
+msgid "Pages:"
+msgstr ""
+
+#: single.php:29
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: single.php:33
+#, php-format
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/admin-elems.php:22
+msgid "Background"
+msgstr ""
+
+#: inc/admin-elems.php:24
+msgid "Background Image"
+msgstr ""
+
+#: inc/admin-elems.php:27
+#: inc/admin.php:125
+msgid "Upload Image"
+msgstr ""
+
+#: inc/admin-elems.php:30
+msgid "Background Color"
+msgstr ""
+
+#: inc/admin-elems.php:35
+msgid "Background Repeat"
+msgstr ""
+
+#: inc/admin-elems.php:37
+msgid "Repeat Both"
+msgstr ""
+
+#: inc/admin-elems.php:38
+msgid "Repeat Vertical"
+msgstr ""
+
+#: inc/admin-elems.php:39
+msgid "Repeat Horizontal"
+msgstr ""
+
+#: inc/admin-elems.php:40
+msgid "No Repeat"
+msgstr ""
+
+#: inc/admin-elems.php:44
+msgid "Background Position"
+msgstr ""
+
+#: inc/admin-elems.php:46
+msgid "Background Position X axis"
+msgstr ""
+
+#: inc/admin-elems.php:51
+msgid "Background Position Y axis"
+msgstr ""
+
+#: inc/admin-elems.php:56
+msgid "Background Position Unit"
+msgstr ""
+
+#: inc/admin-elems.php:58
+msgid "Pxs"
+msgstr ""
+
+#: inc/admin-elems.php:59
+msgid "Ems"
+msgstr ""
+
+#: inc/admin-elems.php:60
+msgid "Percent"
+msgstr ""
+
+#: inc/admin-elems.php:244
+#: inc/admin.php:126
+#: inc/admin.php:171
+#: inc/admin.php:191
+#: inc/custom-options.php:257
+msgid "Remove image"
+msgstr ""
+
+#: inc/admin-elems.php:249
+#: inc/admin.php:170
+#: inc/admin.php:183
+#: inc/custom-options.php:259
+msgid "Upload image"
+msgstr ""
+
+#: inc/admin-elems.php:298
+#: inc/admin-elems.php:338
+#: inc/admin.php:137
+msgid "Font"
+msgstr ""
+
+#: inc/admin-elems.php:300
+msgid "Font Family"
+msgstr ""
+
+#: inc/admin-elems.php:303
+#: inc/admin.php:124
+msgid "Select a Font"
+msgstr ""
+
+#: inc/admin-elems.php:306
+msgid "Font Size(px)"
+msgstr ""
+
+#: inc/admin-elems.php:311
+#: inc/admin-elems.php:340
+msgid "Font Color"
+msgstr ""
+
+#: inc/admin-elems.php:377
+msgid "http://minima.in/pro"
+msgstr ""
+
+#: inc/admin-elems.php:379
+msgid "http://minima.in/pro/support/payment"
+msgstr ""
+
+#: inc/admin.php:113
+msgid "Remove"
+msgstr ""
+
+#: inc/admin.php:114
+msgid "Random"
+msgstr ""
+
+#: inc/admin.php:115
+msgid "Top"
+msgstr ""
+
+#: inc/admin.php:116
+msgid "Right"
+msgstr ""
+
+#: inc/admin.php:117
+msgid "Bottom"
+msgstr ""
+
+#: inc/admin.php:118
+msgid "Left"
+msgstr ""
+
+#: inc/admin.php:119
+msgid "Are you sure to delete this slide?"
+msgstr ""
+
+#: inc/admin.php:120
+msgid "Are you sure to delete this slider?"
+msgstr ""
+
+#: inc/admin.php:127
+msgid "Saving .."
+msgstr ""
+
+#: inc/admin.php:128
+msgid "Saved!"
+msgstr ""
+
+#: inc/admin.php:129
+msgid "Preview"
+msgstr ""
+
+#: inc/admin.php:130
+msgid "Click to remove background!"
+msgstr ""
+
+#: inc/admin.php:131
+msgid "Click to remove font!"
+msgstr ""
+
+#: inc/admin.php:132
+msgid "The quick brown fox jumps over the lazy dog"
+msgstr ""
+
+#: inc/admin.php:133
+msgid "Are you sure to delete this font?"
+msgstr ""
+
+#: inc/admin.php:135
+msgid "Add a new font"
+msgstr ""
+
+#: inc/admin.php:136
+msgid "Edit font"
+msgstr ""
+
+#: inc/admin.php:138
+msgid "Font File"
+msgstr ""
+
+#: inc/admin.php:139
+msgid "Font Embed Code(Import/Standard)"
+msgstr ""
+
+#: inc/admin.php:140
+msgid "Google Font Family"
+msgstr ""
+
+#: inc/admin.php:141
+msgid "Google Font"
+msgstr ""
+
+#: inc/admin.php:142
+msgid "Cufon Font"
+msgstr ""
+
+#: inc/admin.php:143
+msgid "Add Font"
+msgstr ""
+
+#: inc/admin.php:144
+msgid "Font Type"
+msgstr ""
+
+#: inc/admin.php:145
+msgid "Update Font"
+msgstr ""
+
+#: inc/admin.php:146
+msgid "Plese Select a Font Type"
+msgstr ""
+
+#: inc/admin.php:147
+msgid "Plese Provide Google Font Family"
+msgstr ""
+
+#: inc/admin.php:148
+msgid "Please select a font file to upload!"
+msgstr ""
+
+#: inc/admin.php:149
+msgid "This Font is not supported, Please use valid cufon fonts(.js files)!"
+msgstr ""
+
+#: inc/admin.php:150
+msgid "Please enter google embed code!"
+msgstr ""
+
+#: inc/admin.php:151
+msgid ""
+"Invalid Code! Make sure you paste code for either standard or @import tab."
+msgstr ""
+
+#: inc/admin.php:182
+msgid "Slide image"
+msgstr ""
+
+#: inc/admin.php:184
+msgid "Slide title"
+msgstr ""
+
+#: inc/admin.php:185
+msgid "Button text"
+msgstr ""
+
+#: inc/admin.php:186
+msgid "Delete slider"
+msgstr ""
+
+#: inc/admin.php:187
+msgid "Choose an image to enable fields below!"
+msgstr ""
+
+#: inc/admin.php:188
+#: inc/custom-options.php:79
+msgid "No slides found"
+msgstr ""
+
+#: inc/admin.php:189
+msgid "Slide caption"
+msgstr ""
+
+#: inc/admin.php:190
+msgid "Slide URL"
+msgstr ""
+
+#: inc/admin.php:317
+msgid "Save"
+msgstr ""
+
+#: inc/custom-options.php:15
+msgid "Minima Options"
+msgstr ""
+
+#: inc/custom-options.php:56
+msgid "Hide page title"
+msgstr ""
+
+#: inc/custom-options.php:64
+msgid "Display featured boxes"
+msgstr ""
+
+#: inc/custom-options.php:73
+msgid "Slides"
+msgstr ""
+
+#: inc/custom-options.php:76
+msgid "Add a slide"
+msgstr ""
+
+#: inc/custom-options.php:77
+msgid "Please add minimum two slides."
+msgstr ""
+
+#: inc/custom-options.php:191
+#: inc/custom-options.php:203
+msgid "Featured boxes"
+msgstr ""
+
+#: inc/custom-options.php:192
+msgid "Featured box"
+msgstr ""
+
+#: inc/custom-options.php:193
+msgid "Add New"
+msgstr ""
+
+#: inc/custom-options.php:194
+msgid "Add New featured box"
+msgstr ""
+
+#: inc/custom-options.php:195
+msgid "Edit featured box"
+msgstr ""
+
+#: inc/custom-options.php:196
+msgid "New featured box"
+msgstr ""
+
+#: inc/custom-options.php:197
+msgid "All featured boxes"
+msgstr ""
+
+#: inc/custom-options.php:198
+msgid "View featured boxes"
+msgstr ""
+
+#: inc/custom-options.php:199
+msgid "Search featured boxes"
+msgstr ""
+
+#: inc/custom-options.php:200
+msgid "No featured boxes found"
+msgstr ""
+
+#: inc/custom-options.php:201
+msgid "No featured boxes found in Trash"
+msgstr ""
+
+#: inc/custom-options.php:228
+msgid "Featured box details"
+msgstr ""
+
+#: inc/custom-options.php:250
+msgid "Featured box image"
+msgstr ""
+
+#: inc/custom-options.php:267
+msgid "Featured box URL"
+msgstr ""
+
+#: inc/custom-options.php:276
+msgid "Featured box description"
+msgstr ""
+
+#: inc/layout-actions.php:422
+msgid "Search Results for:"
+msgstr ""
+
+#: inc/layout-actions.php:428
+msgid "Post found"
+msgstr ""
+
+#: inc/layout-actions.php:449
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: inc/layout-actions.php:451
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: inc/layout-actions.php:453
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: inc/layout-actions.php:457
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: inc/layout-actions.php:466
+msgid "Posts found"
+msgstr ""
+
+#: inc/layout-actions.php:478
+msgid "Latest Posts"
+msgstr ""
+
+#: inc/widgets.php:24
+msgid "Theme inbuilt contact us widget."
+msgstr ""
+
+#: inc/widgets.php:49
+msgid "Follow us"
+msgstr ""
+
+#: inc/widgets.php:100
+msgid "New title"
+msgstr ""
+
+#: inc/widgets.php:104
+msgid "Title"
+msgstr ""
+
+#: inc/widgets.php:110
+msgid "Address"
+msgstr ""
+
+#: inc/widgets.php:115
+msgid "Facebook page URL"
+msgstr ""
+
+#: inc/widgets.php:122
+msgid "Twitter page URL"
+msgstr ""
+
+#: inc/widgets.php:129
+msgid "Linkedin page URL"
+msgstr ""

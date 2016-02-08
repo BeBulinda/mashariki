@@ -1,0 +1,6 @@
+*** Doctors Changelog ***
+
+
+2015-09-16 - Version 0.5
+
+  * First Release!

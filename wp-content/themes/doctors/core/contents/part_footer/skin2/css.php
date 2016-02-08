@@ -1,0 +1,1 @@
+.tally_footer { padding-top:80px; padding-bottom:25px; text-align:center; text-transform:uppercase; font-size:25px; font-weight: 100; }

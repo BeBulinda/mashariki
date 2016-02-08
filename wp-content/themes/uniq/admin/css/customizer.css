@@ -1,0 +1,13 @@
+.wrap .uniq-buy-pro, .wrap .description.customize-section-description a {
+  background: #3dad66;
+  color: white;
+  padding: 2px 7px;
+  display: inline-block;
+  margin-top: 10px;
+  border-radius: 2px; }
+
+.wrap .uniq-docs {
+	font-size: 16px;
+  font-weight: 700;
+  margin: 5px;
+}
